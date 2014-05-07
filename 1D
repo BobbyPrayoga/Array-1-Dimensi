@@ -42,4 +42,6 @@ for(int i=0; i<x*y; i++)
 cout<<setw(3)<<mat[i];
 }
 cout<<endl<<endl;
+getch ();
 }
+
